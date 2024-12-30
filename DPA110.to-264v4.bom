@@ -1,0 +1,61 @@
+Partlist exported from L:/DPA/DPA110.to-264v4.sch at 25. 9. 2012 13:53:48
+
+Qty Value     Device           Parts                                           
+1             2SA1943          U$1                                             
+1             2SC5200          U$2                                             
+1             C-KERAMIK_5      C14*                                            
+1             PSH02-02P        K1                                              
+1             R-EU_0617/22     R64                                             
+6             R__2W            R65, R66, R70, R71, R72, R73                    
+6             ST4,8            X1, X2, X3, X4, X5, X6                          
+1   0         R_10             0R                                              
+4   0R        R_10             R, R67, R74, R75                                
+3   1µF       C-KERAMIK_5      C1, C16, C22                                    
+2   1K5       R_10             R9, R10                                         
+1   1M        R_10             R14                                             
+10  1R        R_10             R42, R43, R44, R45, R46, R47, R48, R49, R61, R62
+2   1R/1W     R_10             R54, R55                                        
+2   1k        R_10             R17, R18                                        
+1   1k2       R_10             R1                                              
+3   1k8       R_10             R30, R35, R36                                   
+2   1nF       C-KERAMIK_5      C8, C9                                          
+1   2SA1837   BD912_LEZ        T21                                             
+1   2SC4793   BD711_LEZ        T25                                             
+4   2k2       R_10             R7, R8, R21, R22                                
+2   2p7       C-KERAMIK_5      C10, C11                                        
+1   3k3       R_10             R11                                             
+2   4A        SH22,5A          F1, F2                                          
+2   4R7       R__2W            R59, R60                                        
+2   4V7       BZX55            D7, D8                                          
+4   10R       RAC01            R52, R53, R68, R69                              
+5   10R       R_10             R12, R50, R56, R57, R58                         
+2   10nF      C-KERAMIK_5      C17, C18                                        
+2   11k       R_10             R25, R25*                                       
+2   15V       BZD23            D1, D2                                          
+2   22pF      C-KERAMIK_5      C25*, C26*                                      
+4   39R       R_10             R27, R28, R33, R34                              
+2   47R       R_10             R40, R41                                        
+2   47k       R_10             R2, R26                                         
+2   47nF      C-KERAMIK_10     C19*, C20*                                      
+4   100R      R_7,5            R15, R16, R29, R51                              
+5   100R      R_10             R3, R4, R5, R6, R32                             
+1   100n      C-KERAMIK_5      C15                                             
+9   100nF     C-KERAMIK_5      C3, C24, C27, C29, C31, C32, C33, C34, C35      
+8   100uF     C-ELEKTROLYT_3,5 C6, C7, C12, C13, C19, C21, C23, C30            
+2   100uF/25V C-ELEKTROLYT_2   C4, C5                                          
+2   150       R_10             R37, R38                                        
+1   220       R_10             R23                                             
+5   220R      R_10             R19, R20, R24, R39, R63                         
+1   220pF     C-KERAMIK_5      C2                                              
+1   470R      R_10             R13                                             
+1   680R      R_10             R31                                             
+6   BAV21     BAV21            D3, D5, D9, D10, D11, D12                       
+5   BC546     BC546            T1, T2, T3, T7, T13                             
+5   BC556     BC556            T4, T5, T6, T8, T14                             
+1   BC558     BC559            T12                                             
+3   BD139     BD139            T10, T11, T15                                   
+2   BD140     BD140            T9, T16                                         
+2   BY299     D_10             D20, D21                                        
+1   T67W-5K   TRIMR64Y         P2                                              
+1   T67W-50K  TRIMR64Y         P1                                              
+2   red       LED5MM           LED1, LED2                                      
